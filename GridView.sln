@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridView", "GridView\GridView.csproj", "{858DA1AB-A802-4AC6-8ABC-ECC9C41CCEE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{7FCD6B79-DEF9-4E0A-952F-16FFF79E2529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{858DA1AB-A802-4AC6-8ABC-ECC9C41CCEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858DA1AB-A802-4AC6-8ABC-ECC9C41CCEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858DA1AB-A802-4AC6-8ABC-ECC9C41CCEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858DA1AB-A802-4AC6-8ABC-ECC9C41CCEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCD6B79-DEF9-4E0A-952F-16FFF79E2529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCD6B79-DEF9-4E0A-952F-16FFF79E2529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCD6B79-DEF9-4E0A-952F-16FFF79E2529}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7FCD6B79-DEF9-4E0A-952F-16FFF79E2529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCD6B79-DEF9-4E0A-952F-16FFF79E2529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCD6B79-DEF9-4E0A-952F-16FFF79E2529}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2F88CD-528E-47A0-8F87-DFA9ED65F90A}
+	EndGlobalSection
+EndGlobal

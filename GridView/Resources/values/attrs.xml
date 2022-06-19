@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<declare-styleable name="GridView">
+		<attr name="SeparatorColor" format="color" />
+		<attr name="HeaderColor" format="color" />
+		<attr name="CellsColor" format="color" />
+		<attr name="TintIconOrder" format="color" />
+		<attr name="EncabezadoOrderBy" format="boolean" />
+	</declare-styleable>
+
+</resources>

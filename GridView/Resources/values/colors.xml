@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="DefaultSeparatorColor">#000000</color>
+	<color name="DefaultHeaderColor">#e5e5e5</color>
+	<color name="DefaultCellsColor">#ffffff</color>
+	<color name="DefaultTintIconOrderColor">#000000</color>
+</resources>

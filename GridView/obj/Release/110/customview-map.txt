@@ -1,0 +1,14 @@
+attr;obj\Release\110\res\values\attrs.xml
+color;obj\Release\110\res\values\colors.xml
+declare-styleable;obj\Release\110\res\values\attrs.xml
+ImageView;obj\Release\110\res\layout\recurso_encabezadoitem.xml
+LinearLayout;obj\Release\110\res\layout\recurso_encabezadoitem.xml
+LinearLayout;obj\Release\110\res\layout\recurso_gridrowelement.xml
+LinearLayout;obj\Release\110\res\layout\view_gridview.xml
+ListView;obj\Release\110\res\layout\view_gridview.xml
+RelativeLayout;obj\Release\110\res\layout\recurso_encabezadoitem.xml
+resources;obj\Release\110\res\values\attrs.xml
+resources;obj\Release\110\res\values\colors.xml
+resources;obj\Release\110\res\values\strings.xml
+string;obj\Release\110\res\values\strings.xml
+TextView;obj\Release\110\res\layout\recurso_encabezadoitem.xml

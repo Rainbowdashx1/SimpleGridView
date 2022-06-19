@@ -1,0 +1,1 @@
+<resources><declare-styleable name="GridView"><attr name="SeparatorColor" format="color" /><attr name="HeaderColor" format="color" /><attr name="CellsColor" format="color" /><attr name="TintIconOrder" format="color" /><attr name="EncabezadoOrderBy" format="boolean" /></declare-styleable></resources>

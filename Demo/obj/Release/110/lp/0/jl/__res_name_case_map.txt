@@ -1,0 +1,9 @@
+values/strings.xml;values/strings.xml
+layout/view_gridview.xml;layout/view_gridview.xml
+layout/recurso_gridrowelement.xml;layout/recurso_gridrowelement.xml
+values/colors.xml;values/colors.xml
+values/attrs.xml;values/attrs.xml
+drawable/down.png;drawable/down.png
+drawable/line.png;drawable/line.png
+drawable/up.png;drawable/up.png
+layout/recurso_encabezadoitem.xml;layout/recurso_encabezadoitem.xml

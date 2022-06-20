@@ -4,6 +4,8 @@ Xamarin android Grid
 [![Version](https://img.shields.io/nuget/v/SimpleGridView)](https://www.nuget.org/packages/SimpleGridView/)
 [![License](https://img.shields.io/github/license/Rainbowdashx1/SimpleGridView)](https://github.com/Rainbowdashx1/SimpleGridView/blob/master/LICENSE.md)
 
+<img src="https://raw.github.com/Rainbowdashx1/SimpleGridView/master/SimpleGridViewImg.jpg" width="400" height="400">
+
 # Uso
 Objeto con el que trabajaremos 
 * `GridView.ViewGrid` (Compatible version API >= 23) 

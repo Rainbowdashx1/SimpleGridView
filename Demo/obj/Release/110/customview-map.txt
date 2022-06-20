@@ -26,12 +26,7 @@ item;obj\Release\110\res\values\styles.xml
 LinearLayout;C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\0\jl\res\layout\recurso_encabezadoitem.xml
 LinearLayout;C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\0\jl\res\layout\recurso_gridrowelement.xml
 LinearLayout;C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\0\jl\res\layout\view_gridview.xml
-LinearLayout;C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\0\jl\res\layout\view_gridview2.xml
-LinearLayout;obj\Release\110\res\layout\recurso_gridrowelement.xml
-LinearLayout;obj\Release\110\res\layout\view_gridview.xml
-LinearLayout;obj\Release\110\res\layout\view_gridview2.xml
 ListView;C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\0\jl\res\layout\view_gridview.xml
-ListView;obj\Release\110\res\layout\view_gridview.xml
 menu;obj\Release\110\res\menu\menu_main.xml
 paths;C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\39\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 RelativeLayout;C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\0\jl\res\layout\recurso_encabezadoitem.xml
@@ -44,8 +39,6 @@ resources;obj\Release\110\res\values\dimens.xml
 resources;obj\Release\110\res\values\ic_launcher_background.xml
 resources;obj\Release\110\res\values\strings.xml
 resources;obj\Release\110\res\values\styles.xml
-ScrollView;C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\0\jl\res\layout\view_gridview2.xml
-ScrollView;obj\Release\110\res\layout\view_gridview2.xml
 string;C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\0\jl\res\values\strings.xml
 string;obj\Release\110\res\values\strings.xml
 style;obj\Release\110\res\values\styles.xml

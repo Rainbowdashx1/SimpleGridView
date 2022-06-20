@@ -28,7 +28,7 @@
 .L.compressed_assembly_descriptors:
 	/* 0: Demo.dll */
 	/* uncompressed_file_size */
-	.long	164352
+	.long	165376
 	/* loaded */
 	.byte	0
 	/* data */
@@ -37,7 +37,7 @@
 
 	/* 1: GridView.dll */
 	/* uncompressed_file_size */
-	.long	79360
+	.long	81920
 	/* loaded */
 	.byte	0
 	/* data */
@@ -55,7 +55,7 @@
 
 	/* 3: Mono.Android.dll */
 	/* uncompressed_file_size */
-	.long	1141248
+	.long	1143808
 	/* loaded */
 	.byte	0
 	/* data */
@@ -73,7 +73,7 @@
 
 	/* 5: System.Core.dll */
 	/* uncompressed_file_size */
-	.long	56320
+	.long	62976
 	/* loaded */
 	.byte	0
 	/* data */

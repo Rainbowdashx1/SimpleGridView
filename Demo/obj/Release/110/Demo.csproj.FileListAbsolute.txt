@@ -136,7 +136,6 @@ C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\android\src\com\google
 C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
 C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\android\src\crc6433b778fe73d844da\MainActivity.java
 C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\android\src\crc6467514044e4784f98\AdapterViewGrid.java
-C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\android\src\crc648e74e92117a2ed3c\GridView.java
 C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\android\src\crc648e74e92117a2ed3c\ViewGrid.java
 C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
 C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
@@ -176,4 +175,3 @@ C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\58\jl\files.cache
 C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\61\jl\files.cache
 C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\66\jl\files.cache
 C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\lp\68\jl\files.cache
-C:\Users\Pablo\source\repos\GridView\Demo\obj\Release\110\Demo.csproj.CopyComplete

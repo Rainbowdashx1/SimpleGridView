@@ -16,6 +16,14 @@ public class ViewGrid
 	}
 
 
+	public ViewGrid (android.content.Context p0)
+	{
+		super (p0);
+		if (getClass () == ViewGrid.class)
+			mono.android.TypeManager.Activate ("GridView.ViewGrid, GridView", "Android.Content.Context, Mono.Android", this, new java.lang.Object[] { p0 });
+	}
+
+
 	public ViewGrid (android.content.Context p0, android.util.AttributeSet p1)
 	{
 		super (p0, p1);

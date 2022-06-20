@@ -1,8 +1,8 @@
 # SimpleGridView V1.0.0
 Xamarin android Grid
 
-[![Version](https://img.shields.io/nuget/v/SimpleGridView?style=plastic)](https://www.nuget.org/packages/SpinnerSearchableCustomObject/)
-[![License](https://img.shields.io/github/license/Rainbowdashx1/SimpleGridView?style=plastic)](https://github.com/Rainbowdashx1/SpinnerSearchableCustomObject/blob/master/LICENSE.md)
+[![Version](https://img.shields.io/nuget/v/SimpleGridView?style=plastic)](https://www.nuget.org/packages/SimpleGridView/)
+[![License](https://img.shields.io/github/license/Rainbowdashx1/SimpleGridView?style=plastic)](https://github.com/Rainbowdashx1/SimpleGridView/blob/master/LICENSE.md)
 
 # Uso
 Objeto con el que trabajaremos 
